@@ -1,0 +1,1 @@
+get_mayor_abs a = maximum (map abs a) 

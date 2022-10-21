@@ -1,0 +1,1 @@
+cambia_el_n a n b = take n a ++ [b] ++  reverse(take (length a - (n+1)) (reverse a))

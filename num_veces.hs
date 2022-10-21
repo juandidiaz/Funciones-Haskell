@@ -1,0 +1,1 @@
+num_veces a b = length (filter (\x -> x ==b) a)
